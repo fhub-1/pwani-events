@@ -1,0 +1,255 @@
+{
+  
+  "2023-10-16": [
+    {
+      "id": "1",
+      "name": "Mombasa Flutter Workshop",
+      "height": 50,
+      "day": "2023-01-15"
+    }
+  ],
+  "2023-10-17": [
+    {
+      "id": "2",
+      "name": "React Development Seminar",
+      "height": 50,
+      "day": "2023-02-10"
+    },
+    {
+      "id": "3",
+      "name": "Blockchain and Cryptocurrency with React Native",
+      "height": 50,
+      "day": "2023-02-10"
+    }
+  ],
+  "2023-10-10": [
+    {
+      "id": "4",
+      "name": "Next.js for Modern Web Apps",
+      "height": 50,
+      "day": "2023-03-05"
+    }
+  ],
+  "2023-10-20": [
+    {
+      "id": "5",
+      "name": "Vue.js Web Development Bootcamp",
+      "height": 50,
+      "day": "2023-04-20"
+    }
+  ],
+  "2023-10-12": [
+    {
+      "id": "6",
+      "name": "Mastering Nuxt.js: Advanced Techniques",
+      "height": 50,
+      "day": "2023-05-12"
+    },
+    {
+      "id": "7",
+      "name": "JavaScript Best Practices",
+      "height": 50,
+      "day": "2023-05-12"
+    }
+  ],
+  "2023-10-25": [
+    {
+      "id": "8",
+      "name": "Node.js Development Summit",
+      "height": 50,
+      "day": "2023-06-25"
+    }
+  ],
+  "2023-10-18": [
+    {
+      "id": "9",
+      "name": "Babel.js: Transpiling Magic Workshop",
+      "height": 50,
+      "day": "2023-07-18"
+    }
+  ],
+  "2023-08-09": [
+    {
+      "id": "10",
+      "name": "Flutter App Design & Development Bootcamp",
+      "height": 50,
+      "day": "2023-08-09"
+    },
+    {
+      "id": "11",
+      "name": "React Native Mobile App Innovations",
+      "height": 50,
+      "day": "2023-08-09"
+    }
+  ],
+  "2023-09-30": [
+    {
+      "id": "12",
+      "name": "Next.js for E-commerce Websites",
+      "height": 50,
+      "day": "2023-09-30"
+    }
+  ],
+  "2023-10-22": [
+    {
+      "id": "13",
+      "name": "Vue.js Frontend Development Techniques",
+      "height": 50,
+      "day": "2023-10-22"
+    },
+    {
+      "id": "14",
+      "name": "Nuxt.js: Building Web Apps with Ease",
+      "height": 50,
+      "day": "2023-10-22"
+    }
+  ],
+  "2023-11-14": [
+    {
+      "id": "15",
+      "name": "JavaScript for Beginners Workshop",
+      "height": 50,
+      "day": "2023-11-14"
+    }
+  ],
+  "2023-12-05": [
+    {
+      "id": "16",
+      "name": "Node.js Backend Development Masterclass",
+      "height": 50,
+      "day": "2023-12-05"
+    },
+    {
+      "id": "17",
+      "name": "Babel.js: Modern JavaScript Transpiling",
+      "height": 50,
+      "day": "2023-12-05"
+    }
+  ],
+  "2024-01-20": [
+    {
+      "id": "18",
+      "name": "Advanced Flutter App Architecture",
+      "height": 50,
+      "day": "2024-01-20"
+    }
+  ],
+  "2024-02-12": [
+    {
+      "id": "19",
+      "name": "React State Management Strategies",
+      "height": 50,
+      "day": "2024-02-12"
+    },
+    {
+      "id": "20",
+      "name": "React Native UI/UX Design Workshop",
+      "height": 50,
+      "day": "2024-02-12"
+    }
+  ],
+  "2024-03-08": [
+    {
+      "id": "21",
+      "name": "Next.js and Server-Side Rendering",
+      "height": 50,
+      "day": "2024-03-08"
+    }
+  ],
+  "2024-04-25": [
+    {
+      "id": "22",
+      "name": "Vue.js Best Practices Seminar",
+      "height": 50,
+      "day": "2024-04-25"
+    }
+  ],
+  "2024-05-17": [
+    {
+      "id": "23",
+      "name": "Mastering Nuxt.js: Advanced Web Apps",
+      "height": 50,
+      "day": "2024-05-17"
+    },
+    {
+      "id": "24",
+      "name": "JavaScript Development for the Web",
+      "height": 50,
+      "day": "2024-05-17"
+    }
+  ],
+  "2024-06-29": [
+    {
+      "id": "25",
+      "name": "Node.js APIs and Microservices",
+      "height": 50,
+      "day": "2024-06-29"
+    }
+  ],
+  "2024-07-22": [
+    {
+      "id": "26",
+      "name": "Babel.js: Transpiling Magic Unleashed",
+      "height": 50,
+      "day": "2024-07-22"
+    }
+  ],
+  "2024-08-14": [
+    {
+      "id": "27",
+      "name": "Flutter App Development for Beginners",
+      "height": 50,
+      "day": "2024-08-14"
+    },
+    {
+      "id": "28",
+      "name": "React Native: Building Mobile Apps with Ease",
+      "height": 50,
+      "day": "2024-08-14"
+    }
+  ],
+  "2024-09-04": [
+    {
+      "id": "29",
+      "name": "Next.js and PWA Development",
+      "height": 50,
+      "day": "2024-09-04"
+    }
+  ],
+  "2024-10-19": [
+    {
+      "id": "30",
+      "name": "Vue.js Web Development Bootcamp",
+      "height": 50,
+      "day": "2024-10-19"
+    },
+    {
+      "id": "31",
+      "name": "Nuxt.js: Building Web Apps from Scratch",
+      "height": 50,
+      "day": "2024-10-19"
+    }
+  ],
+  "2024-11-11": [
+    {
+      "id": "32",
+      "name": "Advanced JavaScript and ES6 Features",
+      "height": 50,
+      "day": "2024-11-11"
+    }
+  ],
+  "2024-12-02": [
+    {
+      "id": "33",
+      "name": "Node.js Microservices and Scalability",
+      "height": 50,
+      "day": "2024-12-02"
+    },
+    {
+      "id": "34",
+      "name": "Babel.js: The Future of JavaScript",
+      "height": 50,
+      "day": "2024-12-02"
+    }
+  ]
+}
