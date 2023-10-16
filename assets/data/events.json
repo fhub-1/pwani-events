@@ -5,7 +5,15 @@
       "id": "1",
       "name": "Mombasa Flutter Workshop",
       "height": 50,
-      "day": "2023-01-15"
+      "day": "2023-01-15",
+      "time": "10:00am",
+      "venue": "Pwani University",
+      "description": "This is a workshop for beginners to learn how to build mobile apps with Flutter.",
+      "image": "https://res.cloudinary.com/techguy/image/upload/v1620143889/Flutter%20Workshop%20Mombasa%20-%20Pwani%20University/WhatsAp",
+      "link": "https://www.meetup.com/Flutter-Mombasa/events/278015000/",
+      "organizer": "Flutter Mombasa",
+      "organizer_link": "https://www.meetup.com/Flutter-Mombasa/",
+      "Host": "Pwani University"
     }
   ],
   "2023-10-17": [

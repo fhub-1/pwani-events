@@ -1,9 +1,11 @@
-import { Alert, Pressable, StyleSheet, Text } from "react-native";
+import { Pressable, StyleSheet, Text } from "react-native";
 import { View } from "../../components/Themed";
 // import { Agenda, AgendaEntry } from "react-native-calendars";
-import { Agenda, AgendaEntry, AgendaList } from "react-native-calendars";
-import events from "../../assets/data/events.json";
+import { useNavigation } from "expo-router";
 import React from "react";
+import { Agenda, AgendaEntry } from "react-native-calendars";
+import events from "../../assets/data/events.json";
+import { Stack } from "expo-router";
 
 export default function TabOneScreen() {
   const renderItem = (reservation: AgendaEntry, isFirst: boolean) => {
@@ -13,7 +15,11 @@ export default function TabOneScreen() {
     return (
       <Pressable
         style={[styles.item, { height: reservation.height }]}
-        onPress={() => Alert.alert(reservation.name)}
+        // onPress={() => navigation.navigate("Modal")}
+        // creare a onpress function to navigate to the modal screen
+        // create a onpress function to navigate to the modal screen
+        // onPress={}
+        // onPress={() => navigation.navigate("Modal")}
       >
         <Text style={{ fontSize, color }}>{reservation.name}</Text>
       </Pressable>

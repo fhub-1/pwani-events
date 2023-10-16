@@ -43,4 +43,13 @@ export type reservation = {
   name: string;
   height: number;
   day: string;
+  time: string;
+  venue: string;
+  description: string;
+  image: string;
+  id: string;
+  link: string;
+  host: string;
+  organizer: string;
+  organizer_link: string;
 };
